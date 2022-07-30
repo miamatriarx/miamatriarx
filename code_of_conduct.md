@@ -2,13 +2,7 @@
 
 *Hello World,*
 
-*The world is broken in many ways; inequality, injustice, oppression, discrimination, abuse of power, tribalism and crimes against humanity.  Disadvantaged people fight for privilege, minorities are oppressed, people struggling with mental health or disability are ostracized, LGBTQ members fight for basic human rights, women fight for equality and autonomy over their own body and to stop being treated like property, in all countries in the world people are being raped and in an astonishingly amount of countries women are being genitally mutilated; among many other heartbreaking and sickening acts of cruelty and evil.  We don't deserve to colonize Mars or to survive global warming if this is who we are, then the universe is better off without us.*
-
-*This is not the final version of humanity, this is not what we have to offer the universe.  We can be a united species void of tribalism and division, that work together as a holistic collective with the united purpose of advancing humanity, while utilizing diversity as our of our greatest strengths in innovation and evolution.  Where every individual is empowered, has basic human rights, an abundance of resources, equal opportunity and freedom; to experience a high quality of life and pursue their infinite human potential.  We can be an incredibly beautiful species with a future of infinite potential.*
-
-*I'm a global citizen and I have devoted my life to living in service of humanity; to build things that constructively contribute to society and that ameliorate the quality of people's lives.*
-
-*This is a call to action - Join me and help me. By myself I can only do so much, but together we can accomplish anything and make the difference the world so desperately needs.*
+*The world can be a better place, this is not the final version of humanity, this is not what we have to offer the universe.  We can be a united species void of tribalism and division, that work together as a holistic collective with the united purpose of advancing humanity, while utilizing diversity as our of our greatest strengths in innovation and evolution.  Where every individual is empowered, has basic human rights, an abundance of resources, equal opportunity and freedom; to experience a high quality of life and pursue their infinite human potential.  We can be an incredibly beautiful species with a future of infinite potential; when we start working together to create it.*
 
 *Love,*\
 *Mia 💕*
