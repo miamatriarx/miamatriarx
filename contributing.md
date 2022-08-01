@@ -19,7 +19,7 @@ Important things to know and general guidelines for contributions.  We also reco
 ## DCO
 
 ✔️ [Create a new GPG key](https://docsmiamatriarx.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key).\
-✔️ [Add the GPG key to your github account](https://docsmiamatriarx.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account).\
+✔️ [Add the GPG key to your GitHub account](https://docsmiamatriarx.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account).\
 ✔️ Have a look at [how to sign your commits](https://docsmiamatriarx.com/en/authentication/managing-commit-signature-verification/signing-commits) using your GPG key.\
 ✔️ After you've set it up you can use `git commit -S -am "message"` in order to create a signed and verified commit.
 

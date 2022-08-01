@@ -61,8 +61,8 @@ jobs:
             -Dsonar.verbose=true
   deploy:
     needs:
-      - dependency-review
-      - code-review
+      - dependency-revanalysisiew
+      - lint
       - code-analysis
     name: Deploy
     runs-on: ubuntu-latest

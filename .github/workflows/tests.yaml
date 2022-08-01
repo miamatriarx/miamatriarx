@@ -12,7 +12,7 @@ on:
       - main
     types:
       - opened
-      - synchronized
+      - synchronize
       - reopened
   schedule:
     - cron: '0 0 * * *'
