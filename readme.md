@@ -23,10 +23,18 @@
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white" title="Reddit" alt="Reddit"/>
     </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212" title="Discord" alt="Discord"/>
     </a>
   </p>
+
+  <h1>🏰 Matriarx 💕</h1>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml">
@@ -44,9 +52,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
-    </a>
     <a>
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
     </a>
