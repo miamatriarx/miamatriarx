@@ -1,5 +1,5 @@
 # Authors 💕
 
-A special thank you to all the wonderful people who made significant contributions to this project.
-
 👩‍💻 Mia Matriarx 💕
+  - mia@matriarx.io
+  - [Contact](https://github.com/miamatriarx/miamatriarx/blob/main/support.md)

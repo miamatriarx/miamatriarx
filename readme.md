@@ -5,6 +5,8 @@
     </a>
   </p>
 
+  <h1>👩‍💻 Mia Matriarx 💕</h1>
+
   <p>
     <a href="https://t.me/miamatriarx">
       <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" title="Telegram" alt="Telegram"/>
@@ -29,7 +31,16 @@
     </a>
   </p>
 
-  <h1>👩‍💻 Mia Matriarx 💕</h1>
+  <p>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/dependency-review.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/codeql.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/codeql.yaml/badge.svg?branch=main&event=push" title="CD" alt="CD"/>
+    </a>
+    <a>
+      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
+  </p>
 </div>
 
 <p>

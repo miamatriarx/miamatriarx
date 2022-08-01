@@ -1,6 +1,6 @@
 # Support 💕
 
-If you need any support, have any questions or concerns, would like to report something or need help, or if you'd like to support us, don't hesitate to ask in our community or to contact us.
+If you need support or would like to get in contact you can do so using a variety of platforms.
 
 ## Contact
 ✔️ [Email](mailto:mia@matriarx.io)\

@@ -1,25 +1,22 @@
 # Code of Conduct 💕
 
-*Hello World,*
-
-*The world can be a better place, this is not the final version of humanity, this is not what we have to offer the universe.  We can be a united species void of tribalism and division, that work together as a holistic collective with the united purpose of advancing humanity, while utilizing diversity as our of our greatest strengths in innovation and evolution.  Where every individual is empowered, has basic human rights, an abundance of resources, equal opportunity and freedom; to experience a high quality of life and pursue their infinite human potential.  We can be an incredibly beautiful species with a future of infinite potential; when we start working together to create it.*
-
-*Love,*\
-*Mia 💕*
+Community code of conduct.
 
 ## ❔ Purpose ❓
 
-*To create an altruistic global society with the united purpose of ameliorating the quality of all life.*
+*The world can be a better place.*
 
 ## ✨ Mission 💫
 
-*Creating systems that add value to people's lives by means of empowerment, freedom, education, awareness and support.*
+*Creating things that add value to people's lives.*
 
 ## ❤️ Vision 🔮
 
-*To create an altruistic global society with the united purpose of ameliorating the quality of all life and spearheading humanity into the next era of our evolution as a holistic collective.*
+*To create systems that make a difference by ameliorating the quality of all life.*
 
 ## 🎉 Values 🎊
+
+The values that we believe everyone should aspire to improve on.
 
 ✔️ Authenticity\
 ✔️ Integrity\
@@ -73,10 +70,10 @@ Stay agile, adapt and pivot as necessary depending on a variety of variables.
 
 ## 💎 Contributing 🚀
 
-✔️ All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) license unless otherwise specified.\
+✔️ All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) license.\
 ✔️ Any contribution made to software owned by Mia Matriarx or the Matriarx brand, or to any Matriarx community, falls under [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) and in doing so you void all claims to any intellectual property or copyright without any exceptions.\
-✔️ Developer Certificate of Origin ([DCO](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin)) is enforced on all repositories in order to verify that you made that commit and that you have agreed to our terms.\
-✔️ For more information have a look at our [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md) documentation.
+✔️ Developer Certificate of Origin ([DCO](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin)) is enforced on all repositories in order to verify that you have agreed to our terms.\
+✔️ For more information have a look at [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
 
 ## ❕ Policy ❗
 
@@ -84,4 +81,4 @@ We have zero tolerance for dishonesty, sexism, sexual harassment, racism, homoph
 
 ## ‼️ Misconduct ⁉️
 
-Our policy applies to everyone irrespective of who they are, if a person's behaviour or actions violate it, or if they are being disrespectful, abusive or disruptive in any other way, get in [contact](https://github.com/miamatriarx/miamatriarx/blob/main/support.md) and report it so they can be removed from the community.
+Our code of conduct applies to everyone irrespective of who they are, if a person's behaviour or actions violate it, or if they are being disrespectful, abusive or disruptive in any other way, get in [contact](https://github.com/miamatriarx/miamatriarx/blob/main/support.md) and report it so they can be removed from the community.
