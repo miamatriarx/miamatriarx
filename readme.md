@@ -32,6 +32,135 @@
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212" title="Discord" alt="Discord"/>
     </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/followers/miamatriarx?style=social" title="Followers" alt="Followers"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?style=social" title="Forks" alt="Forks"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?style=social" title="Stars" alt="Stars"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/stars/miamatriarx?style=social" title="Stars" alt="Stars"/>
+    </a>
+    <a href="https://github.com/miamatriarx/matriarx">
+      <img src="https://img.shields.io/github/stars/matriarx?style=social" title="Stars" alt="Stars"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?style=social" title="Watchers" alt="Watchers"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/reddit/subreddit-subscribers/matriarx?style=social" title="Reddit" alt="Reddit"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/reddit/user-karma/combined/miamatriarx-?style=social?style=social" title="Karma" alt="Karma"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmiamatriarx" title="Tweet" alt="Tweet"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/twitter/follow/miamatriarx?style=social" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues/miamatriarx/miamatriarx?color=c00060&label=Issues&logoColor=808080" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues-raw/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues-closed/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues-pr/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues-pr-raw/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues-pr-closed/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/issues-pr-closed-raw/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/milestones/all/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/milestones/open/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/milestones/closed/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/sponsors/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/downloads/miamatriarx/miamatriarx/total" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/languages/code-size/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/directory-file-count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/repo-size/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/languages/top/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=coverage" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=ncloc" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=code_smells" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_rating" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=security_rating" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=bugs" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=vulnerabilities" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=duplicated_lines_density" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=reliability_rating" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=alert_status" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_index" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" title="Follow" alt="Follow"/>
+    </a>
   </p>
 
   <h1>🏰 Matriarx 💕</h1>
@@ -47,13 +176,15 @@
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml/badge.svg" title="Build" alt="Build"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/release.svg" title="Release" alt="Release"/>
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
     </a>
   </p>
-
+https://img.shields.io/github/discussions/miamatriarx/miamatriarx
+https://img.shields.io/github/commit-activity/m/miamatriarx/miamatriarx
+https://img.shields.io/github/contributors/miamatriarx/miamatriarx
   <p>
     <a>
-      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
+      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&display_name=tag" title="Release" alt="Release">
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main" title="Checks" alt="Checks"/>
