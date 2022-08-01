@@ -1,4 +1,4 @@
-name: Continuous Deployment
+name: CD
 concurrency:
   group: ${{github.ref}}
   cancel-in-progress: true
