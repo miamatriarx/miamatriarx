@@ -1,5 +1,3 @@
-# 👩‍💻 Mia Matriarx 💕
-
 <div align="center">
   <p>
     <a href="https://github.com/miamatriarx">
@@ -64,6 +62,21 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/twitter/follow/miamatriarx?style=social" title="Follow" alt="Follow"/>
     </a>
+  </p>
+
+  <p>
+    <a>
+      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&display_name=tag" title="Release" alt="Release">
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main" title="Checks" alt="Checks"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
+      <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx" title="MIT" alt="MIT"/>
+    </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/issues/miamatriarx/miamatriarx?color=c00060&label=Issues&logoColor=808080" title="Follow" alt="Follow"/>
     </a>
@@ -129,6 +142,29 @@
     </a>
   </p>
 
+  <h1>🏰 Matriarx 💕</h1>
+
+  <p>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/dependencies.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/dependencies.yaml/badge.svg" title="Dependencies" alt="Dependency Review"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/lint.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/lint.yaml/badge.svg" title="Lint" alt="Lint"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/analysis.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/analysis.yaml/badge.svg" title="Code Analysis" alt="Code Analysis"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/tests.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/tests.yaml/badge.svg" title="Tests" alt="Tests"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml/badge.svg" title="Build" alt="Build"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
+    </a>
+  </p>
+
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" title="Follow" alt="Follow"/>
@@ -136,6 +172,15 @@
   </p>
 
   <p>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=alert_status" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=security_rating" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=vulnerabilities" title="Follow" alt="Follow"/>
+    </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=coverage" title="Follow" alt="Follow"/>
     </a>
@@ -149,13 +194,7 @@
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_rating" title="Follow" alt="Follow"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=security_rating" title="Follow" alt="Follow"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=bugs" title="Follow" alt="Follow"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=vulnerabilities" title="Follow" alt="Follow"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=duplicated_lines_density" title="Follow" alt="Follow"/>
@@ -164,39 +203,7 @@
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=reliability_rating" title="Follow" alt="Follow"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=alert_status" title="Follow" alt="Follow"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_index" title="Follow" alt="Follow"/>
-    </a>
-  </p>
-
-  <h1>🏰 Matriarx 💕</h1>
-
-  <p>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/cd.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/cd.yaml/badge.svg" title="CD" alt="CD"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml/badge.svg" title="Build" alt="Build"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
-    </a>
-  </p>
-
-  <p>
-    <a>
-      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&display_name=tag" title="Release" alt="Release">
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main" title="Checks" alt="Checks"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
-      <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx" title="MIT" alt="MIT"/>
     </a>
   </p>
 </div>
