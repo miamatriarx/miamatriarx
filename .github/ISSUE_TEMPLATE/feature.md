@@ -4,7 +4,6 @@ about: Request a new feature
 title: 'Feature: '
 labels: triage, feature
 assignees: miamatriarx
-
 ---
 
 Have a look at the existing [issues](https://github.com/miamatriarx/miamatriarx/issues) to prevent duplicate issues.
