@@ -4,7 +4,6 @@ about: Report a new bug
 title: 'Bug: '
 labels: triage, bug
 assignees: miamatriarx
-
 ---
 
 Have a look at the existing [issues](https://github.com/miamatriarx/miamatriarx/issues) to prevent duplicate issues.

@@ -1,4 +1,4 @@
-name: CD
+name: Release
 concurrency:
   group: ${{github.ref}}
   cancel-in-progress: true

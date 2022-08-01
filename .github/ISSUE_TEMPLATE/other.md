@@ -4,7 +4,6 @@ about: Request a new issue
 title: 'Issue: '
 labels: triage
 assignees: miamatriarx
-
 ---
 
 Have a look at the existing [issues](https://github.com/miamatriarx/miamatriarx/issues) to prevent duplicate issues.

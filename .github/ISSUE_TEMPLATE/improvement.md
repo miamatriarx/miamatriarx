@@ -4,7 +4,6 @@ about: Request a new improvement
 title: 'Improvement: '
 labels: triage, improvement
 assignees: miamatriarx
-
 ---
 
 Have a look at the existing [issues](https://github.com/miamatriarx/miamatriarx/issues) to prevent duplicate issues.
