@@ -8,19 +8,8 @@ on:
     tags: '*'
   workflow_dispatch:
 jobs:
-  dependency-review:
-    name: Dependency Review
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: read
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Analyze
-        uses: actions/dependency-review-action@v2
-  code-review:
-    name: Code Review
+  dependency-analysis:
+    name: Dependency Analysis
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -31,6 +20,19 @@ jobs:
         with:
           fetch-depth: 0
       - name: Analyze
+        uses: actions/dependency-review-action@v2
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Lint
         uses: github/super-linter@v4
         env:
           DEFAULT_BRANCH: main
@@ -43,6 +45,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Analyze
         uses: SonarSource/sonarcloud-github-action@master
         env:
