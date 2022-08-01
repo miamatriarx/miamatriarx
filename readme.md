@@ -1,3 +1,5 @@
+# 👩‍💻 Mia Matriarx 💕
+
 <div align="center">
   <p>
     <a href="https://github.com/miamatriarx">
@@ -9,28 +11,28 @@
 
   <p>
     <a href="https://t.me/miamatriarx">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" title="Telegram" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
     </a>
     <a href="https://twitter.com/miamatriarx">
-      <img src="https://img.shields.io/badge/Twitter-009eff?logo=twitter&logoColor=white" title="Twitter" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-009eff?logo=twitter&logoColor=ffffff" title="Twitter" alt="Twitter"/>
     </a>
     <a href="https://www.linkedin.com/in/miamatriarx">
-      <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.reddit.com/r/miamatriarx-">
+      <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=white" title="Discord" alt="Discord"/>
+      <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
     </a>
-    <a href="https://www.reddit.com/r/matriarx">
-      <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white" title="Reddit" alt="Reddit"/>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?label=Online&color=c00060&logoColor=808080" title="Discord" alt="Discord"/>
     </a>
   </p>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
-    </a>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212" title="Discord" alt="Discord"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/followers/miamatriarx?style=social" title="Followers" alt="Followers"/>
@@ -114,13 +116,22 @@
       <img src="https://img.shields.io/github/languages/top/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+      <img src="https://img.shields.io/github/discussions/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+      <img src="https://img.shields.io/github/commit-activity/m/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+      <img src="https://img.shields.io/github/contributors/miamatriarx/miamatriarx" title="Follow" alt="Follow"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/0.0.1" title="Follow" alt="Follow"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" title="Follow" alt="Follow"/>
     </a>
   </p>
 
@@ -158,9 +169,6 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_index" title="Follow" alt="Follow"/>
     </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://sonarcloud.io/images/project_badges/sonarcloud-black.svg" title="Follow" alt="Follow"/>
-    </a>
   </p>
 
   <h1>🏰 Matriarx 💕</h1>
@@ -179,9 +187,7 @@
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
     </a>
   </p>
-https://img.shields.io/github/discussions/miamatriarx/miamatriarx
-https://img.shields.io/github/commit-activity/m/miamatriarx/miamatriarx
-https://img.shields.io/github/contributors/miamatriarx/miamatriarx
+
   <p>
     <a>
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&display_name=tag" title="Release" alt="Release">
@@ -303,7 +309,7 @@ https://img.shields.io/github/contributors/miamatriarx/miamatriarx
 
 ## 💎 Contributors 🚀
 
-A special thank you to all the wonderful [authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md) documentation.
+A special thank you to all the [authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
 
 ![Contributors](https://contrib.rocks/image?repo=miamatriarx/miamatriarx)
 
