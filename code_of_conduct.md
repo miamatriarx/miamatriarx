@@ -45,7 +45,7 @@ Stay agile, adapt and pivot as necessary depending on a variety of variables.
 ### ⚡ Objectives 🚧
 
 ✔️ Set up secure and scalable infrastructure.\
-✔️ Set up DevOps, CI/CD and 3rd party integrations and automate everything that can be automated.\
+✔️ Set up DevOps, CI/CD and third-party integrations and automate everything that can be automated.\
 ✔️ Create internationalization and localization to be globally inclusive.\
 ✔️ Create reusable software modules to be used in any of the systems as needed.\
 ✔️ Create the charitable systems required to address the purpose in alignment with the mission and to ultimately realize the vision.\

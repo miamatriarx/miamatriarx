@@ -12,7 +12,7 @@ Have a look at the existing [issues](https://github.com/miamatriarx/miamatriarx/
 Provide detail about what you're observing and how it differs from what you expect.
 
 **Can you provide us with code or a screen shot?**
-Provide any code or screen shots related to the issue.
+Provide any code or screenshots related to the issue.
 
 **Do you have any useful errors or logs?**
 Provide the errors or logs you have.

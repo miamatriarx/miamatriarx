@@ -59,6 +59,5 @@ jobs:
             -Dsonar.organization=miamatriarx
             -Dsonar.projectKey=miamatriarx_miamatriarx
             -Dsonar.projectBaseDir=.
-            -Dsonar.sources=.
             -Dsonar.tests=tests
             -Dsonar.verbose=true
