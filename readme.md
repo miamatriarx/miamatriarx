@@ -29,9 +29,6 @@
   </p>
 
   <p>
-    <a>
-      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
-    </a>
     <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml">
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
     </a>
@@ -42,7 +39,7 @@
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml/badge.svg" title="Build" alt="Build"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/cd.yaml/release.svg" title="cd" alt="CD"/>
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/release.svg" title="Release" alt="Release"/>
     </a>
   </p>
 
@@ -50,8 +47,14 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
     </a>
+    <a>
+      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
+    </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main" title="Checks" alt="Checks"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
+      <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx" title="MIT" alt="MIT"/>
     </a>
   </p>
 </div>
