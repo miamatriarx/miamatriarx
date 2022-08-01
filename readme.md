@@ -23,35 +23,48 @@
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white" title="Reddit" alt="Reddit"/>
     </a>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212" title="Discord" alt="Discord"/>
+    </a>
+  </p>
+
+  <p>
+    <a>
+      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/cd.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/cd.yaml/badge.svg" title="CD" alt="CD"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/build.yaml/badge.svg" title="Build" alt="Build"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml">
+      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/cd.yaml/release.svg" title="cd" alt="CD"/>
+    </a>
   </p>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
     </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/dependency-review.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main" title="Checks" alt="Checks"/>
     </a>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/codeql.yaml">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/codeql.yaml/badge.svg?branch=main&event=push" title="CD" alt="CD"/>
-    </a>
-    <a>
-      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?sort=semver&style=flat" title="Release" alt="Release">
   </p>
 </div>
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=40a0a0&ring=c04080&fire=c04080&currStreakLabel=c04080&currStreakNum=40a0a0&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=40a0a0&ring=c04080&fire=c04080&currStreakLabel=c04080&currStreakNum=40a0a0&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="100%"/>
   </a>
 </p>
 
