@@ -57,7 +57,7 @@
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
     </a>
   </p>
 
@@ -148,16 +148,16 @@
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?label=Forks&color=c04080" title="Forks" alt="Forks"/>
+      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?logo=github&label=Forks&color=c04080" title="Forks" alt="Forks"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/matriarx">
-      <img src="https://img.shields.io/github/stars/matriarx?label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/matriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?label=Watchers&color=c04080" title="Watchers" alt="Watchers"/>
+      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?logo=github&label=Watchers&color=c04080" title="Watchers" alt="Watchers"/>
     </a>
   </p>
 
