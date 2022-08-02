@@ -167,6 +167,9 @@
     </a>
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
       <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?label=License&color=c04080" title="License" alt="License"/>
     </a>
