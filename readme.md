@@ -11,32 +11,32 @@
     <a href="https://www.linkedin.com/in/miamatriarx">
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
     </a>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
-    </a>
-    <a href="https://www.reddit.com/r/miamatriarx-">
+    <a href="https://www.reddit.com/u/miamatriarx-">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
-    <a href="https://www.reddit.com/r/miamatriarx-">
-      <img src="https://img.shields.io/badge/Reddit-ff4500?logo=r%2Fmatriarx&logoColor=ffffff" title="r/matriarx" alt="r/matriarx"/>
+    <a href="https://www.reddit.com/r/matriarx">
+      <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
-  </p>
-
-  <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=c04080" title="Chat" alt="Chat"/>
+      <img src="https://img.shields.io/badge/Matriarx-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
+    </a>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=738adb" title="Chat" alt="Chat"/>
+    </a>
+    <a href="https://www.reddit.com/r/matriarx">
+      <img src="https://img.shields.io/badge/Website-matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/sponsors/miamatriarx?label=Sponsors&color=c04080" title="Sponsors" alt="Sponsors"/>
-    </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/reddit/user-karma/combined/miamatriarx-?style=social?style=social&label=Karma&color=c04080" title="Karma" alt="Karma"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/sponsors/miamatriarx?label=Sponsors&color=c04080" title="Sponsors" alt="Sponsors"/>
     </a>
   </p>
 
@@ -46,6 +46,9 @@
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/stars/miamatriarx?style=social&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/reddit/subreddit-subscribers/matriarx?style=social&label=Reddit&color=c04080" title="Reddit" alt="Reddit"/>
     </a>
   </p>
 
@@ -148,9 +151,6 @@
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?style=social&label=Watchers&color=c04080" title="Watchers" alt="Watchers"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/reddit/subreddit-subscribers/matriarx?style=social&label=Reddit&color=c04080" title="Reddit" alt="Reddit"/>
     </a>
   </p>
 
