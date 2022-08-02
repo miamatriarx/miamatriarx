@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080" title="Followers" alt="Followers"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx&logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
   </p>
 
