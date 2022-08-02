@@ -18,16 +18,16 @@
 
   <p>
     <a href="https://www.reddit.com/r/matriarx">
-      <img src="https://img.shields.io/badge/Website-matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
+      <img src="https://img.shields.io/badge/Site-matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
-    <a href="https://www.reddit.com/r/matriarx">
-      <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=c04080" title="Chat" alt="Chat"/>
     </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/badge/Matriarx-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
     </a>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=738adb" title="Chat" alt="Chat"/>
+    <a href="https://www.reddit.com/r/matriarx">
+      <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
   </p>
 
