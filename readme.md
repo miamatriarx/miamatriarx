@@ -191,7 +191,7 @@
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
   </p>
 
-  <h2>✨ Responsitory 💫</h2>
+  <h2>✨ Repository 💫</h2>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
