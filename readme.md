@@ -5,9 +5,6 @@
     <a href="mailto:mia@matriarx.io">
       <img src="https://img.shields.io/badge/mia@matriarx.io-c04080?logoColor=ffffff" title="Email" alt="Email"/>
     </a>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
-    </a>
     <a href="https://t.me/miamatriarx">
       <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
     </a>
@@ -20,20 +17,23 @@
     <a href="https://www.reddit.com/u/miamatriarx-">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    </a>
   </p>
 
   <p>
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
-    <a href="https://t.me/miamatriarx">
-      <img src="https://img.shields.io/badge/Matriarx-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
-    </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/badge/Matriarx-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
     </a>
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+    </a>
+    <a href="https://t.me/miamatriarx">
+      <img src="https://img.shields.io/badge/Matriarx-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
   </p>
 
