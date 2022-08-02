@@ -38,12 +38,6 @@
   </p>
 
   <p>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
-    </a>
-  </p>
-
-  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
@@ -58,6 +52,12 @@
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
     </a>
   </p>
 
