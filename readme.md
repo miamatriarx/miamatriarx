@@ -1,7 +1,7 @@
-# 👩‍💻 Mia Matriarx 💕 Matriarx 🏰
+# 👩‍💻 Mia 💕 Matriarx 🏰✨
 
 <div align="center">
-  <h1>👩‍💻 Mia Matriarx 💕</h1>
+  <h1>👩‍💻 Mia 💕 Matriarx 🏰✨</h1>
 
   <p>
     <a href="mailto:mia@matriarx.io">
@@ -148,7 +148,7 @@
 </p>
 
 <div align="center">
-  <h1>🏰 Mia Matriarx 💕</h1>
+  <h1>👩‍💻 Mia 💕 Matriarx 🏰✨</h1>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
@@ -332,7 +332,7 @@
 - [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)
 - [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
 
-## 👩‍💻 Mia Matriarx 💕
+## 👩‍💻 Mia 💕 Matriarx 🏰✨
 
 <p>
   <a href="mailto:mia@matriarx.io">
@@ -355,7 +355,7 @@
   </a>
 </p>
 
-## 🏰 Matriarx 💕
+## 💕 Matriarx 🏰
 
 <p>
   <a href="https://matriarx.io">
