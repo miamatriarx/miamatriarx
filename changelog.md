@@ -16,23 +16,23 @@
 
 👀
 
-## ⚡ Performance ⌛
+## 🚀 Performance ⌛
 
 👀
 
-## 🚀 Config 🌈
+## 🏰 Config 🌈
 
 👀
 
-## 🚀 Build 🚧
+## 🏰 Build 🚧
 
 👀
 
-## 🚀 CI 🏰
+## 🏰 CI ⚡
 
 👀
 
-## 🚀 Platform ☁️
+## 🏰 Platform ☁️
 
 👀
 

@@ -11,17 +11,20 @@
     <a href="https://www.linkedin.com/in/miamatriarx">
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
     </a>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
+    </a>
     <a href="https://www.reddit.com/r/miamatriarx-">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
+    <a href="https://www.reddit.com/r/miamatriarx-">
+      <img src="https://img.shields.io/badge/Reddit-ff4500?logo=r%2Fmatriarx&logoColor=ffffff" title="r/matriarx" alt="r/matriarx"/>
     </a>
   </p>
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=738adb" title="Chat" alt="Chat"/>
+      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=c04080" title="Chat" alt="Chat"/>
     </a>
   </p>
 
@@ -30,10 +33,10 @@
       <img src="https://img.shields.io/github/sponsors/miamatriarx?label=Sponsors&color=c04080" title="Sponsors" alt="Sponsors"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+      <img src="https://img.shields.io/reddit/user-karma/combined/miamatriarx-?style=social?style=social&label=Karma&color=c04080" title="Karma" alt="Karma"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/reddit/user-karma/combined/miamatriarx-?style=social?style=social&label=Karma&color=c04080" title="Karma" alt="Karma"/>
+      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
     </a>
   </p>
 
@@ -44,9 +47,6 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/stars/miamatriarx?style=social&label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/twitter/follow/miamatriarx?style=social&label=Follow&color=c04080" title="Follow" alt="Follow"/>
-    </a>
   </p>
 
   <p>
@@ -55,24 +55,6 @@
     </a>
   </p>
 </div>
-
-<p>
-  <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=40a0a0&ring=c04080&fire=c04080&currStreakLabel=c04080&currStreakNum=40a0a0&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="100%"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamatriarx&custom_title=Languages&lang_count=10&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Languages" alt="Languages" width="100%"/>
-  </a>
-</p>
 
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -129,6 +111,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=40a0a0&ring=c04080&fire=c04080&currStreakLabel=c04080&currStreakNum=40a0a0&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="100%"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamatriarx&custom_title=Languages&lang_count=10&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Languages" alt="Languages" width="100%"/>
+  </a>
 </p>
 
 <div align="center">
@@ -297,7 +297,7 @@
 ✔️ [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)\
 ✔️ [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
 
-## ✨ Contact 💫
+## 👩‍💻 Mia Matriarx 💕
 ✔️ [Email](mailto:mia@matriarx.io)\
 ✔️ [Telegram](https://t.me/miamatriarx)\
 ✔️ [Twitter](https://twitter.com/miamatriarx)\
@@ -305,15 +305,15 @@
 ✔️ [Reddit](https://www.reddit.com/u/miamatriarx-)\
 ✔️ [GitHub](https://github.com/miamatriarx)
 
-## 🏰 Community 🌈
+## 🏰 Matriarx 💕
 ✔️ [Matriarx](https://matriarx.io)\
 ✔️ [Discord](https://discord.gg/matriarx)\
 ✔️ [Reddit](https://www.reddit.com/r/matriarx)\
 ✔️ [GitHub](https://github.com/matriarx)
 
-## 💎 Contributors 🚀
+## ✨ Contributors 💫
 
-A special thank you to all the [authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
+Thank you to all the [authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
 
 ![Contributors](https://contrib.rocks/image?repo=miamatriarx/miamatriarx)
 

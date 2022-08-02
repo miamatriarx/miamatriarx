@@ -16,7 +16,7 @@ Community code of conduct.
 
 ## 🎉 Values 🎊
 
-The values that we believe everyone should aspire to improve on.
+The values we believe everyone should aspire to improve on.
 
 ✔️ Authenticity\
 ✔️ Integrity\
@@ -68,7 +68,7 @@ Stay agile, adapt and pivot as necessary depending on a variety of variables.
 ✔️ Compassion - Love and care for yourself, take care of yourself, be kind towards yourself, also do the same for others, be sympathetic, be mindful of how your actions or words might make others feel, be aware of the suffering of others and try to relieve it if possible, be supportive towards others.\
 ✔️ Action - Take the initiative, do something, don't just complain or moan or point fingers or expect that someone else will fix it, take action, take the lead, nothing changes without taking practical and tangible action.
 
-## 💎 Contributing 🚀
+## ✨ Contributing 💫
 
 ✔️ All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) license.\
 ✔️ Any contribution made to software owned by Mia Matriarx or the Matriarx brand, or to any Matriarx community, falls under [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) and in doing so you void all claims to any intellectual property or copyright without any exceptions.\
