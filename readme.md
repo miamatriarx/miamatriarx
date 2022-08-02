@@ -151,6 +151,8 @@
     </a>
   </p>
 
+  <h2>✨ Summary 💫</h2>
+
   <p>
     <a>
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
@@ -162,6 +164,8 @@
       <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?label=License&color=c04080" title="License" alt="License"/>
     </a>
   </p>
+
+  <h2>🏰 Status ☁️</h2>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/dependencies.yaml">
@@ -176,6 +180,8 @@
     <a href="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml">
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
   </p>
+
+  <h2>💎 Repository 🚀</h2>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
@@ -212,6 +218,8 @@
       <img src="https://img.shields.io/github/languages/code-size/miamatriarx/miamatriarx?label=Code+Size&color=c04080" title="Code Size" alt="Code Size"/>
     </a>
   </p>
+
+  <h2>📚 Project 🔮</h2>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
