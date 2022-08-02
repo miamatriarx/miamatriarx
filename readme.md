@@ -164,7 +164,7 @@
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx/actions">
-      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?logo=github&label=Checks&color=c04080&logoColor=ffffff" title="Checks" alt="Checks"/>
+      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?logo=github&label=Checks&logoColor=ffffff" title="Checks" alt="Checks"/>
     </a>
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
     </a>
