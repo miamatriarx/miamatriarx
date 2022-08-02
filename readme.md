@@ -374,7 +374,9 @@
 
 ## ✨ Contributors 💫
 
-Thank you to all the [authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md).  If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
+Thank you to all the [authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md) and [contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md).
+
+If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
 
 ![Contributors](https://contrib.rocks/image?repo=miamatriarx/miamatriarx)
 
