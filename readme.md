@@ -148,20 +148,18 @@
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?style=social&label=Forks&color=c04080" title="Forks" alt="Forks"/>
+      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?label=Forks&color=c04080" title="Forks" alt="Forks"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?style=social&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/matriarx">
-      <img src="https://img.shields.io/github/stars/matriarx?style=social&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/matriarx?label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?style=social&label=Watchers&color=c04080" title="Watchers" alt="Watchers"/>
+      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?label=Watchers&color=c04080" title="Watchers" alt="Watchers"/>
     </a>
   </p>
-
-  <h2>✨ Summary 💫</h2>
 
   <p>
     <a>
@@ -191,7 +189,7 @@
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
   </p>
 
-  <h2>💎 Repository 🚀</h2>
+  <h2>✨ Responsitory 💫</h2>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
