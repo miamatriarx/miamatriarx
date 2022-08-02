@@ -17,29 +17,23 @@
     <a href="https://www.reddit.com/u/miamatriarx-">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/reddit/user-karma/combined/miamatriarx-?style=social&label=Karma&color=c04080" title="Karma" alt="Karma"/>
-    </a>
   </p>
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=c04080" title="Chat" alt="Chat"/>
+      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
     </a>
   </p>
 
   <p>
     <a href="https://www.reddit.com/r/matriarx">
-      <img src="https://img.shields.io/badge/Site-matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
+      <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/badge/Matriarx-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
     </a>
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/reddit/subreddit-subscribers/matriarx?style=social&label=Reddit&color=c04080" title="Reddit" alt="Reddit"/>
     </a>
   </p>
 
@@ -51,10 +45,10 @@
       <img src="https://img.shields.io/github/sponsors/miamatriarx?label=Sponsors&color=c04080" title="Sponsors" alt="Sponsors"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/followers/miamatriarx?style=social&label=Followers&color=c04080" title="Followers" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080" title="Followers" alt="Followers"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx?style=social&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/miamatriarx&logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
     </a>
   </p>
 
