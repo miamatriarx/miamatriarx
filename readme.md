@@ -20,12 +20,6 @@
   </p>
 
   <p>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
-    </a>
-  </p>
-
-  <p>
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
@@ -34,6 +28,12 @@
     </a>
     <a href="https://www.reddit.com/r/matriarx">
       <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
     </a>
   </p>
 
