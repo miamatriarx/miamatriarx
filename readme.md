@@ -6,6 +6,9 @@
       <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://t.me/miamatriarx">
+      <img src="https://img.shields.io/badge/mia@matriarx.io-40c0c0?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
+    </a>
+    <a href="https://t.me/miamatriarx">
       <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
     </a>
     <a href="https://twitter.com/miamatriarx">
@@ -201,13 +204,13 @@
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/commit-activity/y/miamatriarx/miamatriarx?label=Commits+%2F+Year&color=c04080" title="Commits / Year" alt="Commits / Year"/>
+      <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?label=Commits+%2F+Week&color=c04080" title="Commits / Week" alt="Commits / Week"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/commit-activity/m/miamatriarx/miamatriarx?label=Commits+%2F+Month&color=c04080" title="Commits / Month" alt="Commits / Month"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?label=Commits+%2F+Week&color=c04080" title="Commits / Week" alt="Commits / Week"/>
+      <img src="https://img.shields.io/github/commit-activity/y/miamatriarx/miamatriarx?label=Commits+%2F+Year&color=c04080" title="Commits / Year" alt="Commits / Year"/>
     </a>
   </p>
 
