@@ -199,6 +199,9 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/0.0.1?label=Commits" title="Commits" alt="Commits"/>
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/commit-activity/y/miamatriarx/miamatriarx?label=Commits+%2F+Year&color=c04080" title="Commits / Year" alt="Commits / Year"/>
     </a>
@@ -208,6 +211,9 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?label=Commits+%2F+Week&color=c04080" title="Commits / Week" alt="Commits / Week"/>
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/contributors/miamatriarx/miamatriarx?label=Contributors&color=c04080" title="Contributors" alt="Contributors"/>
     </a>
@@ -217,6 +223,9 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/languages/top/miamatriarx/miamatriarx?color=c04080" title="Top Language" alt="Top Language"/>
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/directory-file-count/miamatriarx/miamatriarx?label=Files&color=c04080" title="Files" alt="Files"/>
     </a>
@@ -238,16 +247,19 @@
       <img src="https://img.shields.io/github/milestones/all/miamatriarx/miamatriarx?label=Milestones&color=c04080" title="Milestones" alt="Milestones"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/milestones/closed/miamatriarx/miamatriarx?label=Closed+Milestones&color=40a0a0" title="Closed Milestones" alt="Closed Milestones"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/issues-raw/miamatriarx/miamatriarx?label=Issues&color=c04080" title="Issues" alt="Issues"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/issues-closed-raw/miamatriarx/miamatriarx?label=Closed+Issues&color=40a0a0" title="Closed Issues" alt="Closed Issues"/>
+      <img src="https://img.shields.io/github/issues-pr-raw/miamatriarx/miamatriarx?label=Pull+Requests&color=c04080" title="Pull Requests" alt="Pull Requests"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/milestones/closed/miamatriarx/miamatriarx?label=Closed+Milestones&color=40a0a0" title="Closed Milestones" alt="Closed Milestones"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/issues-pr-raw/miamatriarx/miamatriarx?label=Pull+Requests&color=c04080" title="Pull Requests" alt="Pull Requests"/>
+      <img src="https://img.shields.io/github/issues-closed-raw/miamatriarx/miamatriarx?label=Closed+Issues&color=40a0a0" title="Closed Issues" alt="Closed Issues"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/issues-pr-closed-raw/miamatriarx/miamatriarx?label=Closed+Pull+Requests&color=40a0a0" title="Closed Pull Requests" alt="Closed Pull Requests"/>
@@ -273,6 +285,9 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_rating" title="Maintainability" alt="Maintainability"/>
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=vulnerabilities" title="Vulnerabilities" alt="Vulnerabilities"/>
     </a>
@@ -285,6 +300,9 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=sqale_index" title="Technical Debt" alt="Technical Debt"/>
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://sonarcloud.io/api/project_badges/measure?project=miamatriarx_miamatriarx&metric=ncloc" title="Lines Of Code" alt="Lines Of Code"/>
     </a>
