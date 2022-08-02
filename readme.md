@@ -318,34 +318,34 @@
 
 ## 📚 Documentation 🔮
 
-✔️ [Code of Conduct](https://github.com/miamatriarx/miamatriarx/blob/main/code_of_conduct.md)\
-✔️ [Support](https://github.com/miamatriarx/miamatriarx/blob/main/support.md)\
-✔️ [Discussions](https://github.com/miamatriarx/miamatriarx/discussions)\
-✔️ [Projects](https://github.com/miamatriarx/miamatriarx/projects)\
-✔️ [Wiki](https://github.com/miamatriarx/miamatriarx/wiki)\
-✔️ [Docs](https://github.com/miamatriarx/miamatriarx/blob/main/docs)\
-✔️ [Contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md)\
-✔️ [Security](https://github.com/miamatriarx/miamatriarx/blob/main/security.md)\
-✔️ [Changelog](https://github.com/miamatriarx/miamatriarx/blob/main/changelog.md)\
-✔️ [Release Notes](https://github.com/miamatriarx/miamatriarx/blob/main/release.md)\
-✔️ [Authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md)\
-✔️ [Contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md)\
-✔️ [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)\
-✔️ [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
+- [Code of Conduct](https://github.com/miamatriarx/miamatriarx/blob/main/code_of_conduct.md)
+- [Support](https://github.com/miamatriarx/miamatriarx/blob/main/support.md)
+- [Discussions](https://github.com/miamatriarx/miamatriarx/discussions)
+- [Projects](https://github.com/miamatriarx/miamatriarx/projects)
+- [Wiki](https://github.com/miamatriarx/miamatriarx/wiki)
+- [Docs](https://github.com/miamatriarx/miamatriarx/blob/main/docs)
+- [Contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md)
+- [Security](https://github.com/miamatriarx/miamatriarx/blob/main/security.md)
+- [Changelog](https://github.com/miamatriarx/miamatriarx/blob/main/changelog.md)
+- [Release Notes](https://github.com/miamatriarx/miamatriarx/blob/main/release.md)
+- [Authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md)
+- [Contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md)
+- [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)
+- [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
 
 ## 👩‍💻 Mia Matriarx 💕
-✔️ [Email](mailto:mia@matriarx.io)\
-✔️ [Telegram](https://t.me/miamatriarx)\
-✔️ [Twitter](https://twitter.com/miamatriarx)\
-✔️ [LinkedIn](https://linkedin.com/miamatriarx)\
-✔️ [Reddit](https://www.reddit.com/u/miamatriarx-)\
-✔️ [GitHub](https://github.com/miamatriarx)
+- [Email](mailto:mia@matriarx.io)
+- [Telegram](https://t.me/miamatriarx)
+- [Twitter](https://twitter.com/miamatriarx)
+- [LinkedIn](https://linkedin.com/miamatriarx)
+- [Reddit](https://www.reddit.com/u/miamatriarx-)
+- [GitHub](https://github.com/miamatriarx)
 
 ## 🏰 Matriarx 💕
-✔️ [Matriarx](https://matriarx.io)\
-✔️ [Discord](https://discord.gg/matriarx)\
-✔️ [Reddit](https://www.reddit.com/r/matriarx)\
-✔️ [GitHub](https://github.com/matriarx)
+- [Matriarx](https://matriarx.io)
+- [Discord](https://discord.gg/matriarx)
+- [Reddit](https://www.reddit.com/r/matriarx)
+- [GitHub](https://github.com/matriarx)
 
 ## ✨ Contributors 💫
 
