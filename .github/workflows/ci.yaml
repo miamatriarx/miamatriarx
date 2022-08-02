@@ -32,8 +32,10 @@ jobs:
       - name: Lint
         uses: github/super-linter/slim@v4
         env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           DEFAULT_BRANCH: main
           VALIDATE_ALL_CODEBASE: true
+          FILTER_REGEX_EXCLUDE: ^readme\.md$
   code-analysis:
     name: Code Analysis
     runs-on: ubuntu-latest
@@ -64,4 +66,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: Test
-        run: "echo Passed"
+        run: echo "Passed"

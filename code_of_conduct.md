@@ -60,7 +60,10 @@ Stay agile, adapt and pivot as necessary.
 
 ## ❕ Policy ❗
 
-We have zero tolerance for dishonesty, sexism, sexual harassment, racism, homophobia, transphobia, xenophobia, discrimination, abuse or violence, or any destructive, toxic or hurtful actions towards others.  We welcome everyone, from anywhere, from any background, from any circumstances, from any culture, from any religion, regardless of any sexual orientation or gender identity, regardless of any mental health issues or neurodivergency, regardless of any disability, this is a safe space for everyone.  We especially support women and LGBTQ members and won't tolerate any sort of behaviour that undermines equality.  We expect you to treat others with respect, maturity, acceptance, compassion and kindness.
+- We have zero tolerance for dishonesty, sexism, sexual harassment, racism, homophobia, transphobia, xenophobia, discrimination, abuse or violence, or any destructive, toxic or hurtful actions towards others.
+- We welcome everyone, from anywhere, from any background, from any circumstances, from any culture, from any religion, regardless of any sexual orientation or gender identity, regardless of any disability, neurodivergency or mental health issues, this is a safe space for everyone.
+- We especially support women and LGBTQ members and won't stand for anything that undermines equality.
+- We expect you to treat others with respect, maturity, acceptance, compassion and kindness.
 
 ## ‼️ Misconduct ⁉️
 
