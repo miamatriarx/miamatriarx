@@ -1,14 +1,14 @@
 # Changelog 💕
 
-## 🎉 Features 🎊
+## 🎉 Features ✨
 
 👀
 
-## 🎉 Updates 🎈
+## 🎉 Updates 🎊
 
 👀
 
-## 🎉 Patches ✨
+## 🎉 Patches 🎈
 
 👀
 
