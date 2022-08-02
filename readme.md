@@ -39,13 +39,13 @@
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080" title="Followers" alt="Followers"/>
+      <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080&logoColor=ffffff" title="Followers" alt="Followers"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/sponsors/miamatriarx?logo=github&label=Sponsors&color=c04080" title="Sponsors" alt="Sponsors"/>
+      <img src="https://img.shields.io/github/sponsors/miamatriarx?logo=github&label=Sponsors&color=c04080&logoColor=ffffff" title="Sponsors" alt="Sponsors"/>
     </a>
   </p>
 
@@ -57,7 +57,7 @@
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0" title="Chat" alt="Chat"/>
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
     </a>
   </p>
 
@@ -148,25 +148,24 @@
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?logo=github&label=Forks&color=c04080" title="Forks" alt="Forks"/>
+      <img src="https://img.shields.io/github/forks/miamatriarx/miamatriarx?logo=github&label=Forks&color=c04080&logoColor=ffffff" title="Forks" alt="Forks"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/miamatriarx/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/matriarx">
-      <img src="https://img.shields.io/github/stars/matriarx?logo=github&label=Stars&color=c04080" title="Stars" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/matriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?logo=github&label=Watchers&color=c04080" title="Watchers" alt="Watchers"/>
+      <img src="https://img.shields.io/github/watchers/miamatriarx/miamatriarx?logo=github&label=Watchers&color=c04080&logoColor=ffffff" title="Watchers" alt="Watchers"/>
     </a>
   </p>
 
   <p>
-    <a>
-      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
-    </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
-      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?label=Checks&color=c04080" title="Checks" alt="Checks"/>
+      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?logo=github&label=Checks&color=c04080&logoColor=ffffff" title="Checks" alt="Checks"/>
+    </a>
+      <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
       <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?label=License&color=c04080" title="License" alt="License"/>
