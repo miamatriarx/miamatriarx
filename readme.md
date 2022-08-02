@@ -2,11 +2,11 @@
   <h1>👩‍💻 Mia Matriarx 💕</h1>
 
   <p>
-    <a href="https://t.me/miamatriarx">
-      <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    <a href="mailto:mia@matriarx.io">
+      <img src="https://img.shields.io/badge/mia@matriarx.io-c04080?logoColor=ffffff" title="Email" alt="Email"/>
     </a>
-    <a href="https://t.me/miamatriarx">
-      <img src="https://img.shields.io/badge/mia@matriarx.io-40c0c0?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://t.me/miamatriarx">
       <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
