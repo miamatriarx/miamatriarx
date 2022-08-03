@@ -52,6 +52,10 @@
   </p>
 
   <p>
+    <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png?theme=dark" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
     </a>
@@ -67,13 +71,6 @@
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png?theme=dark" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
-    <a href="https://stackexchange.com/users/25968977"><img src="https://stackexchange.com/users/flair/25968977.png?theme=dark" width="208" height="58" title="StackExchange" alt="StackExchange"></a>
   </p>
 </div>
 
