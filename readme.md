@@ -1,79 +1,77 @@
-# 👩‍💻✨💕🏰
+# 👩‍💻✨ Mia 💕 Matriarx 🏰
+
+<p>
+  <a href="https://matriarx.io">
+    <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
+  </a>
+  <a href="mailto:mia@matriarx.io">
+    <img src="https://img.shields.io/badge/mia@matriarx.io-c04080?logoColor=ffffff" title="Email" alt="Email"/>
+  </a>
+  <a href="https://t.me/miamatriarx">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.reddit.com/u/miamatriarx-">
+    <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+  </a>
+  <a href="https://twitter.com/miamatriarx">
+    <img src="https://img.shields.io/badge/Twitter-009eff?logo=twitter&logoColor=ffffff" title="Twitter" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miamatriarx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19684520/mia-matriarx">
+    <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://discord.gg/matriarx">
+    <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
+  </a>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080&logoColor=ffffff" title="Followers" alt="Followers"/>
+  </a>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://img.shields.io/github/sponsors/miamatriarx?logo=github&label=Sponsors&color=c04080&logoColor=ffffff" title="Sponsors" alt="Sponsors"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx">
+    <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+  </a>
+</p>
+
+# 💕 Matriarx 🏰
+
+<p>
+  <a href="https://matriarx.io">
+    <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
+  </a>
+  <a href="https://discord.gg/matriarx">
+    <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
+  </a>
+  <a href="https://www.reddit.com/r/matriarx">
+    <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+  </a>
+  <a href="https://github.com/matriarx">
+    <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+  </a>
+</p>
 
 <div align="center">
-  <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
-
-  <p>
-    <a href="https://matriarx.io">
-      <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
-    </a>
-    <a href="mailto:mia@matriarx.io">
-      <img src="https://img.shields.io/badge/mia@matriarx.io-c04080?logoColor=ffffff" title="Email" alt="Email"/>
-    </a>
-    <a href="https://t.me/miamatriarx">
-      <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=ffffff" title="Telegram" alt="Telegram"/>
-    </a>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://www.reddit.com/u/miamatriarx-">
-      <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
-    </a>
-    <a href="https://twitter.com/miamatriarx">
-      <img src="https://img.shields.io/badge/Twitter-009eff?logo=twitter&logoColor=ffffff" title="Twitter" alt="Twitter"/>
-    </a>
-    <a href="https://www.linkedin.com/in/miamatriarx">
-      <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
-    </a>
-    <a href="https://stackoverflow.com/users/19684520/mia-matriarx">
-      <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
-    </a>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080&logoColor=ffffff" title="Followers" alt="Followers"/>
-    </a>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/github/sponsors/miamatriarx?logo=github&label=Sponsors&color=c04080&logoColor=ffffff" title="Sponsors" alt="Sponsors"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
-    </a>
-  </p>
-
-  <h1>💕 Matriarx 🏰</h1>
-
-  <p>
-    <a href="https://matriarx.io">
-      <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
-    </a>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
-    </a>
-    <a href="https://www.reddit.com/r/matriarx">
-      <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
-    </a>
-    <a href="https://github.com/matriarx">
-      <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
-    </a>
-  </p>
-
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
@@ -257,7 +255,7 @@
   </a>
 </p>
 
-<h2>📚 Project 🔮</h2>
+<h2>📚 Project 🚀</h2>
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx/discussions">
