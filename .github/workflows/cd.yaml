@@ -12,12 +12,15 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
     steps:
-      - name: Deploy
+      - name: Mock
         run: echo "Deployed"
+  #   permissions:
+  #     contents: read
+  #     packages: write
+  #   steps:
+  #     - name: Deploy
+  #       run: echo "Deployed"
   #     - name: Checkout
   #       uses: actions/checkout@v3
   #       with:
