@@ -53,8 +53,8 @@ Stay agile, adapt and pivot as necessary.
 
 ## ✨ Contributing 💫
 
-✔️ All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) license.\
-✔️ Any contribution made to software owned by Mia Matriarx or the Matriarx brand, or to any Matriarx community, falls under [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md) and in doing so you void all claims to any intellectual property or copyright without any exceptions.\
+✔️ All software created by Mia Matriarx or by the Matriarx brand are free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) under the [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license) license.\
+✔️ Any contribution made to software owned by Mia Matriarx or the Matriarx brand, or to any Matriarx community, falls under [MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license) and in doing so you void all claims to any intellectual property or copyright without any exceptions.\
 ✔️ Developer Certificate of Origin ([DCO](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin)) is enforced on all repositories in order to verify that you have agreed to our terms.\
 ✔️ For more information have a look at [contributing](https://github.com/miamatriarx/miamatriarx/blob/main/contributing.md).
 

@@ -21,6 +21,6 @@ Provide details of the changes that were made.
 - [ ] I have pulled the latest changes before submitting this request and resolved any merge conflicts carefully.
 - [ ] I have followed the [contributing](https://github.com/miamatriarx/miamatriarx/contributing.md) guidelines.
 
-By submitting this request you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that your contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license.md) license.
+By submitting this request you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that your contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license) license.
 
 @miamatriarx

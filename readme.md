@@ -189,7 +189,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
+  <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license">
     <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
   </a>
 </p>
@@ -353,7 +353,7 @@
 ✔️ [Authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md)\
 ✔️ [Contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md)\
 ✔️ [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)\
-✔️ [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
+✔️ [License](https://github.com/miamatriarx/miamatriarx/blob/main/license)
 
 ## 💎 Contributors 🚀
 
@@ -366,7 +366,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
 ## ‼️ License ⁉️
 
 <p>
-  <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
+  <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license">
     <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
   </a>
 </p>
