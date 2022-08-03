@@ -130,6 +130,10 @@
 </p>
 
 <p>
+  <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png" width="208" height="58" alt="StackOverflow" title="StackOverflow"></a>
+</p>
+
+<p>
   <a href="https://github.com/miamatriarx">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=miamatriarx&type=svg&background=101418&sideLabels=c04080&sideNums=40a0a0&ring=c04080&fire=c04080&currStreakLabel=c04080&currStreakNum=40a0a0&dates=c0c0c0&stroke=c0c0c0&border=202428&hide_border=false" title="Streak" alt="Streak" width="100%"/>
   </a>
