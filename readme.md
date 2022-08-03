@@ -343,7 +343,7 @@
 ✔️ [Authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md)\
 ✔️ [Contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md)\
 ✔️ [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)\
-✔️ [license](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
+✔️ [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
 
 ## 👩‍💻✨ Mia 💕 Matriarx 🏰
 
