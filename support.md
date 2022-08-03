@@ -23,11 +23,11 @@ If you need support or would like to get in contact you can do so using a variet
   <a href="https://www.reddit.com/u/miamatriarx-">
     <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
   </a>
-  <a href="https://www.linkedin.com/in/miamatriarx">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
-  </a>
   <a href="https://twitter.com/miamatriarx">
     <img src="https://img.shields.io/badge/Twitter-009eff?logo=twitter&logoColor=ffffff" title="Twitter" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miamatriarx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=ffffff" title="LinkedIn" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/19684520/mia-matriarx">
     <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
