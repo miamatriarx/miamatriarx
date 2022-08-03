@@ -5,7 +5,13 @@
 
   <p>My profile & a repository template.</p>
 
-  <p>Created with sprinkles of ✨ and oodles of 💕.</p>
+  <p>Made with sprinkles of ✨ and oodles of 💕.</p>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
+    </a>
+  </p>
 
   <p>
     <a href="https://matriarx.io">
@@ -61,8 +67,6 @@
     </a>
   </p>
 
-  <h1>💕 Matriarx 🏰</h1>
-
   <p>
     <a href="https://matriarx.io">
       <img src="https://img.shields.io/badge/Matriarx-c04080" title="Matriarx" alt="Matriarx"/>
@@ -75,12 +79,6 @@
     </a>
     <a href="https://github.com/matriarx">
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
   </p>
 </div>
