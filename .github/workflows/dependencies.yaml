@@ -28,5 +28,5 @@ jobs:
       - name: Analyze
         uses: actions/dependency-review-action@v2
         with:
-          - fail-on-severity: low
-          - allow-licenses: MIT
+          fail-on-severity: low
+          allow-licenses: MIT
