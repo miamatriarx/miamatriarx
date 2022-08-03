@@ -263,7 +263,7 @@
       <img src="https://img.shields.io/github/issues-raw/miamatriarx/miamatriarx?logo=github&label=Issues&color=c04080&logoColor=ffffff" title="Issues" alt="Issues"/>
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx/pulls">
-      <img src="https://img.shields.io/github/issues-pr-raw/miamatriarx/miamatriarx?logo=github&label=Pull+Requests&color=c0408&logoColor=ffffff0" title="Pull Requests" alt="Pull Requests"/>
+      <img src="https://img.shields.io/github/issues-pr-raw/miamatriarx/miamatriarx?logo=github&label=Pull+Requests&color=c04080&logoColor=ffffff" title="Pull Requests" alt="Pull Requests"/>
     </a>
   </p>
 
