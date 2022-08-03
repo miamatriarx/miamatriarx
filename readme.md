@@ -163,6 +163,9 @@
   </p>
 
   <p>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions">
+      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?logo=github&label=Checks&logoColor=ffffff" title="Checks" alt="Checks"/>
+    </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
     </a>
@@ -174,9 +177,6 @@
   <h2>🏰 Status ☁️</h2>
 
   <p>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions">
-      <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?logo=github&label=Checks&logoColor=ffffff" title="Checks" alt="Checks"/>
-    </a>
     <a href="https://github.com/miamatriarx/miamatriarx/actions">
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/dependencies.yaml/badge.svg" title="Dependencies" alt="Dependencies"/>
     </a>
