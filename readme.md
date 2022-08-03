@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
     </a>
     <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/badge/GitHub-808080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
     <a href="https://github.com/matriarx">
-      <img src="https://img.shields.io/badge/Matriarx-808080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Matriarx-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
   </p>
 
@@ -376,7 +376,7 @@
       <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
     </a>
     <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/badge/GitHub-808080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
@@ -396,7 +396,7 @@
     <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
   </a>
   <a href="https://github.com/matriarx">
-    <img src="https://img.shields.io/badge/Matriarx-808080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Matriarx-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
   </a>
 </p>
 
