@@ -17,6 +17,6 @@ Provide any additional ideas or suggestions relevant to this feature.
 **How can we contact you if we need more information or if we'd like to discuss it?**
 i.e. @username
 
-By submitting this issue you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that your contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license.md) license.
+By submitting this issue you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that your contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license) license.
 
 @miamatriarx

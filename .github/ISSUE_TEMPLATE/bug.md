@@ -26,6 +26,6 @@ Provide any additional information that could be useful to help debug or fix the
 **Could you provide us with a link to a minimal reproducible example?**
 i.e. [example.org](http://example.org)
 
-By submitting this issue you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that your contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license.md) license.
+By submitting this issue you agree to follow our [code of conduct](https://github.com/miamatriarx/miamatriarx/code_of_conduct.md) and that your contribution will fall under the [MIT](https://github.com/miamatriarx/miamatriarx/license) license.
 
 @miamatriarx
