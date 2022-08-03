@@ -1,4 +1,8 @@
-# 👩‍💻✨💕🏰
+# 👩‍💻✨ Mia 💕 Matriarx 🏰
+
+My profile & a repository template.
+
+Created with sprinkles of ✨ and oodles of 💕.
 
 <div align="center">
   <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
@@ -162,7 +166,7 @@
 
 A repository template.
 
-Made with a sprinkle of ✨ and oodles of 💕.
+Made with sprinkles of ✨ and oodles of 💕.
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
