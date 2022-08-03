@@ -70,6 +70,13 @@
   </p>
 </div>
 
+<div align="center">
+  <p>
+    <a href="https://stackoverflow.com/users/19684520/mia-matriarx?theme=dark"><img src="https://stackoverflow.com/users/flair/19684520.png" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
+    <a href="https://stackexchange.com/users/25968977?theme=dark"><img src="https://stackexchange.com/users/flair/25968977.png" width="208" height="58" title="StackExchange" alt="StackExchange"></a>
+  </p>
+</div>
+
 <p>
   <a href="https://github.com/miamatriarx">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
