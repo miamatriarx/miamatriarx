@@ -332,7 +332,7 @@
 - [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)
 - [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
 
-## 👩‍💻 Mia 💕 Matriarx 🏰✨
+## 👩‍💻✨ Mia 💕 Matriarx 🏰
 
 <p>
   <a href="mailto:mia@matriarx.io">
