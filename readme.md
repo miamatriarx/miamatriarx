@@ -160,7 +160,9 @@
 
 # 👩‍💻✨ Mia 💕 Matriarx 🏰
 
-A repository template made with a touch of ✨ and a lot of 💕.
+A repository template.
+
+Made with a sprinkle of ✨ and oodles of 💕.
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
