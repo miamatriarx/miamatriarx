@@ -191,6 +191,10 @@
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx/actions">
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions">
+      <img src="https://img.shields.io/github/release-date/miamatriarx/miamatriarx?label=Release+Date&color=c04080" title="Release Date" alt="Release Date"/>
+    </a>
   </p>
 
   <h2>✨ Repository 💫</h2>
@@ -205,6 +209,12 @@
   </p>
 
   <p>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/last-commit/miamatriarx/miamatriarx?label=Last+Commit&color=c04080" title="Last Commit" alt="Last Commit"/>
+    </a>
+    <a href="https://github.com/miamatriarx/miamatriarx">
+      <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?label=Commits+%2F+Week&color=c04080" title="Commits / Week" alt="Commits / Week"/>
+    </a>
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?label=Commits+%2F+Week&color=c04080" title="Commits / Week" alt="Commits / Week"/>
     </a>
