@@ -1,4 +1,4 @@
-# Support 💕
+# ✨ Support 💕
 
 If you need support or would like to get in contact you can do so using a variety of platforms.
 

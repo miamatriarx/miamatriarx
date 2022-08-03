@@ -1,4 +1,4 @@
-# Code of Conduct 💕
+# ✨ Code of Conduct 💕
 
 Community code of conduct.
 

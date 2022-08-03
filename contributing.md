@@ -1,4 +1,4 @@
-# Contributing 💕
+# ✨ Contributing 💕
 
 Important things to know and general guidelines for contributions.  We also recommend that you have a look at our [code of conduct](https://github.com/miamatriarx/miamatriarx/blob/main/code_of_conduct.md) and that you understand our purpose and mission, our goals and objectives and that the contribution you make is in alignment with what we're working for.
 
