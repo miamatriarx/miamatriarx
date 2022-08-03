@@ -52,12 +52,14 @@
   </p>
 
   <p>
-    <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png?theme=dark" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
     </a>
   </p>
 
@@ -68,9 +70,7 @@
   </p>
 
   <p>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
-    </a>
+    <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png?theme=dark" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
   </p>
 </div>
 
@@ -131,10 +131,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png" width="208" height="58" alt="StackOverflow" title="StackOverflow"></a>
 </p>
 
 <p>
