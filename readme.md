@@ -19,6 +19,9 @@
     <a href="https://www.reddit.com/u/miamatriarx-">
       <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
     </a>
+    <a href="https://stackoverflow.com/users/19684520/mia-matriarx">
+      <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
+    </a>
     <a href="https://github.com/miamatriarx">
       <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
@@ -353,6 +356,9 @@
   </a>
   <a href="https://www.reddit.com/u/miamatriarx-">
     <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19684520/mia-matriarx">
+    <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
   </a>
   <a href="https://github.com/miamatriarx">
     <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
