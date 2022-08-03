@@ -1,3 +1,3 @@
-# Release Notes 💕
+# ✨ Release Notes 💕
 
 👀

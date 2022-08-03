@@ -1,4 +1,4 @@
-# Acknowledgements 💕
+# ✨ Acknowledgements 💕
 
 ✔️ [wikipedia.org](https://wikipedia.org)\
 ✔️ [giphy.com](https://giphy.com)\
