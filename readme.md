@@ -177,18 +177,12 @@
 </p>
 
 <p>
-  <a href="https://github.com/miamatriarx/miamatriarx/actions">
-    <img src="https://img.shields.io/github/checks-status/miamatriarx/miamatriarx/main?logo=github&label=Checks&logoColor=ffffff" title="Checks" alt="Checks"/>
-  </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
     <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?logo=github&label=Release&include_prereleases&sort=semver&display_name=tag&logoColor=ffffff" title="Release" alt="Release">
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx/actions">
-    <img src="https://img.shields.io/github/release-date/miamatriarx/miamatriarx?logo=github&label=Release+Date&logoColor=ffffff" title="Release Date" alt="Release Date"/>
+    <img src="https://img.shields.io/github/release-date/miamatriarx/miamatriarx?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
   </a>
-</p>
-
-<p>
   <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license">
     <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
   </a>
@@ -215,10 +209,25 @@
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/downloads/miamatriarx/miamatriarx/total?logo=github&label=Downloads&logoColor=ffffff" title="Downloads" alt="Downloads"/>
+    <img src="https://img.shields.io/github/contributors/miamatriarx/miamatriarx?logo=github&label=Contributors&color=c04080&logoColor=ffffff" title="Contributors" alt="Contributors"/>
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/v0.0.1?logo=github&label=Release+Commits&logoColor=ffffff" title="Release Commits" alt="Release Commits"/>
+    <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx?logo=github&label=Languages&color=c04080&logoColor=ffffff" title="Languages" alt="Languages"/>
+  </a>
+  <a href="https://github.com/miamatriarx/miamatriarx">
+    <img src="https://img.shields.io/github/languages/top/miamatriarx/miamatriarx?logo=github&color=c04080&logoColor=ffffff" title="Top Language" alt="Top Language"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/miamatriarx/miamatriarx">
+    <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/latest?logo=github&label=Release+Commits&sort=semver&color=c04080&logoColor=ffffff" title="Release Commits" alt="Release Commits"/>
+  </a>
+  <a href="https://github.com/miamatriarx/miamatriarx">
+    <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/latest?logo=github&label=Prerelease+Commits&include_prereleases&sort=semver&color=c04080&logoColor=ffffff" title="Prerelease Commits" alt="Release Commits"/>
+  </a>
+  <a href="https://github.com/miamatriarx/miamatriarx">
+    <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/latest?logo=github&label=Tag+Commits&sort=semver&color=c04080&logoColor=ffffff" title="Tag Commits" alt="Tag Commits"/>
   </a>
 </p>
 
@@ -239,17 +248,8 @@
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/contributors/miamatriarx/miamatriarx?logo=github&label=Contributors&color=c04080&logoColor=ffffff" title="Contributors" alt="Contributors"/>
+    <img src="https://img.shields.io/github/downloads/miamatriarx/miamatriarx/total?logo=github&label=Downloads&color=c04080&logoColor=ffffff" title="Downloads" alt="Downloads"/>
   </a>
-  <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx?logo=github&label=Languages&color=c04080&logoColor=ffffff" title="Languages" alt="Languages"/>
-  </a>
-  <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/languages/top/miamatriarx/miamatriarx?logo=github&color=c04080&logoColor=ffffff" title="Top Language" alt="Top Language"/>
-  </a>
-</p>
-
-<p>
   <a href="https://github.com/miamatriarx/miamatriarx">
     <img src="https://img.shields.io/github/directory-file-count/miamatriarx/miamatriarx?logo=github&label=Files&color=c04080&logoColor=ffffff" title="Files" alt="Files"/>
   </a>
