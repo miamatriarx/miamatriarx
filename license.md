@@ -1,4 +1,4 @@
-# ✨ License 💕
+# ✨ MIT License 💕
 
 ## Copyright ©️ 2022 Mia Matriarx
 
