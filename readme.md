@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
-  <p>My profile & a repository template.</p>
+  <p>My profile & a template reponsitory.</p>
 
   <p>Made with sprinkles of ✨ and oodles of 💕</p>
 
