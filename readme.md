@@ -218,7 +218,7 @@
     <img src="https://img.shields.io/github/downloads/miamatriarx/miamatriarx/total?logo=github&label=Downloads&logoColor=ffffff" title="Downloads" alt="Downloads"/>
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/0.0.1?logo=github&label=Commits&logoColor=ffffff" title="Commits" alt="Commits"/>
+    <img src="https://img.shields.io/github/commits-since/miamatriarx/miamatriarx/v0.0.1?logo=github&label=Release+Commits&logoColor=ffffff" title="Release Commits" alt="Release Commits"/>
   </a>
 </p>
 
