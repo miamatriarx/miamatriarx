@@ -172,6 +172,9 @@
     <a href="https://github.com/miamatriarx/miamatriarx">
       <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?label=Release&sort=semver&display_name=tag" title="Release" alt="Release">
     </a>
+    <a href="https://github.com/miamatriarx/miamatriarx/actions">
+      <img src="https://img.shields.io/github/release-date/miamatriarx/miamatriarx?label=Release+Date" title="Release Date" alt="Release Date"/>
+    </a>
     <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
       <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?label=License&color=c04080" title="License" alt="License"/>
     </a>
@@ -191,9 +194,6 @@
     </a>
     <a href="https://github.com/miamatriarx/miamatriarx/actions">
       <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/release.yaml/badge.svg" title="Release" alt="Release"/>
-    </a>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions">
-      <img src="https://img.shields.io/github/release-date/miamatriarx/miamatriarx?label=Release+Date&color=c04080" title="Release Date" alt="Release Date"/>
     </a>
   </p>
 
