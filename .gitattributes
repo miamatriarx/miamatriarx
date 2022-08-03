@@ -4,6 +4,9 @@
 .gitattributes text eol=lf
 .gitignore text eol=lf
 .gitmodules text eol=lf
+
+# raw
+license text eol=lf
 codeowners text eol=lf
 
 # config
