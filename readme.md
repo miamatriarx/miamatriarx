@@ -71,7 +71,7 @@
 
   <p>
     <a href="https://matriarx.io">
-      <img src="https://img.shields.io/badge/Matriarx-c04080" title="Matriarx" alt="Matriarx"/>
+      <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
