@@ -71,6 +71,7 @@
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
   </p>
+</div>
 
 <p>
   <a href="https://github.com/miamatriarx">
