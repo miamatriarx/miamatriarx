@@ -1,7 +1,7 @@
-# 👩‍💻 Mia 💕 Matriarx 🏰✨
+# 👩‍💻✨ Mia 💕 Matriarx 🏰
 
 <div align="center">
-  <h1>👩‍💻 Mia 💕 Matriarx 🏰✨</h1>
+  <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
   <p>
     <a href="mailto:mia@matriarx.io">
@@ -148,7 +148,7 @@
 </p>
 
 <div align="center">
-  <h1>👩‍💻 Mia 💕 Matriarx 🏰✨</h1>
+  <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
   <p>
     <a href="https://github.com/miamatriarx/miamatriarx">
