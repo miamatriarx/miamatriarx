@@ -38,16 +38,16 @@ If you need support or would like to get in contact you can do so using a variet
 
 <p>
   <a href="https://matriarx.io">
-    <img src="https://img.shields.io/badge/Matriarx-c04080" title="Matriarx" alt="Matriarx"/>
+    <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
   </a>
   <a href="https://discord.gg/matriarx">
-    <img src="https://img.shields.io/badge/Matriarx-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-738adb?logo=discord&logoColor=ffffff" title="Discord" alt="Discord"/>
   </a>
   <a href="https://www.reddit.com/r/matriarx">
-    <img src="https://img.shields.io/badge/Matriarx-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
+    <img src="https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=ffffff" title="Reddit" alt="Reddit"/>
   </a>
   <a href="https://github.com/matriarx">
-    <img src="https://img.shields.io/badge/Matriarx-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
   </a>
 </p>
 
