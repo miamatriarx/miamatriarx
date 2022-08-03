@@ -25,6 +25,9 @@
     <a href="https://github.com/miamatriarx">
       <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Discord&color=738adb&logoColor=ffffff" title="Discord" alt="Discord"/>
+    </a>
   </p>
 
   <p>
@@ -368,6 +371,9 @@
   </a>
   <a href="https://github.com/miamatriarx">
     <img src="https://img.shields.io/badge/GitHub-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+  </a>
+  <a href="https://discord.gg/matriarx">
+    <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Discord&color=738adb&logoColor=ffffff" title="Discord" alt="Discord"/>
   </a>
 </p>
 
