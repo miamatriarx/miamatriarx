@@ -72,8 +72,8 @@
 
 <div align="center">
   <p>
-    <a href="https://stackoverflow.com/users/19684520/mia-matriarx?theme=dark"><img src="https://stackoverflow.com/users/flair/19684520.png" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
-    <a href="https://stackexchange.com/users/25968977?theme=dark"><img src="https://stackexchange.com/users/flair/25968977.png" width="208" height="58" title="StackExchange" alt="StackExchange"></a>
+    <a href="https://stackoverflow.com/users/19684520/mia-matriarx"><img src="https://stackoverflow.com/users/flair/19684520.png?theme=dark" width="208" height="58" title="StackOverflow" alt="StackOverflow"></a>
+    <a href="https://stackexchange.com/users/25968977"><img src="https://stackexchange.com/users/flair/25968977.png?theme=dark" width="208" height="58" title="StackExchange" alt="StackExchange"></a>
   </p>
 </div>
 
