@@ -44,3 +44,9 @@ If you need support or would like to get in contact you can do so using a variet
     <img src="https://img.shields.io/badge/Matriarx-c04080?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
   </a>
 </p>
+
+<p>
+  <a href="https://discord.gg/matriarx">
+    <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
+  </a>
+</p>

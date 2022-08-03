@@ -62,7 +62,7 @@
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
     </a>
   </p>
 
@@ -343,7 +343,7 @@
 ✔️ [Authors](https://github.com/miamatriarx/miamatriarx/blob/main/authors.md)\
 ✔️ [Contributors](https://github.com/miamatriarx/miamatriarx/blob/main/contributors.md)\
 ✔️ [Acknowledgements](https://github.com/miamatriarx/miamatriarx/blob/main/acknowledgements.md)\
-✔️ [License](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
+✔️ [license](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
 
 ## 👩‍💻✨ Mia 💕 Matriarx 🏰
 
