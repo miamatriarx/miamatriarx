@@ -398,4 +398,8 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
 ## ‼️ License ⁉️
 
-[MIT](https://github.com/miamatriarx/miamatriarx/blob/main/license.md)
+<p>
+  <a href="https://github.com/miamatriarx/miamatriarx/blob/main/license.md">
+    <img src="https://img.shields.io/github/license/miamatriarx/miamatriarx?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
+  </a>
+</p>
