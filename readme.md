@@ -3,6 +3,10 @@
 <div align="center">
   <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
+  <p>My profile & a repository template.</p>
+
+  <p>Created with sprinkles of ✨ and oodles of 💕.</p>
+
   <p>
     <a href="https://matriarx.io">
       <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
@@ -159,10 +163,6 @@
 </p>
 
 # 👩‍💻✨ Mia 💕 Matriarx 🏰
-
-My profile & a repository template.
-
-Created with sprinkles of ✨ and oodles of 💕.
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
