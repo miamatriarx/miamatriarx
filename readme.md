@@ -7,8 +7,6 @@
     </a>
   </p>
 
-  <p>Made with sprinkles of ✨ and oodles of 💕</p>
-
   <p>
     <a href="https://matriarx.io">
       <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
@@ -61,6 +59,8 @@
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
   </p>
+
+  <p>Made with sprinkles of ✨ and oodles of 💕</p>
 
   <p>
     <a href="https://github.com/miamatriarx">
