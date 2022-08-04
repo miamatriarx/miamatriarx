@@ -56,7 +56,7 @@
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Discord&color=738adb&logoColor=ffffff" title="Discord" alt="Discord"/>
     </a>
   </p>
 
