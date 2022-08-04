@@ -1,9 +1,11 @@
 <div align="center">
   <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
-  <a href="https://github.com/miamatriarx">
-    <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
-  </a>
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+    </a>
+  </p>
 
   <p>Made with sprinkles of ✨ and oodles of 💕</p>
 
