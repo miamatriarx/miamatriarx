@@ -8,12 +8,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
-    </a>
-  </p>
-
-  <p>
     <a href="https://matriarx.io">
       <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
@@ -58,6 +52,12 @@
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
