@@ -1,5 +1,3 @@
-# 👩‍💻✨💕🏰
-
 <div align="center">
   <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
@@ -162,7 +160,7 @@
   </a>
 </p>
 
-<h1>✨ Mia Matriarx 💕</h1>
+# 👩‍💻✨ Mia 💕 Matriarx 🏰
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
