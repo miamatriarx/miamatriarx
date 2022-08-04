@@ -95,10 +95,13 @@
 
 <p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=miamatriarx&custom_title=Statistics&count_private=true&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Statistics" alt="Statistics" width="100%"/>
   </a>
+</p>
+
+<p>
   <a href="https://github.com/miamatriarx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamatriarx&custom_title=Languages&lang_count=10&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Languages" alt="Languages" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miamatriarx&custom_title=Languages&lang_count=10&show_icons=true&bg_color=101418&title_color=c04080&text_color=c0c0c0&icon_color=40a0a0&border_radius=10&border_color=202428&locale=en" title="Languages" alt="Languages" width="100%"/>
   </a>
 </p>
 
