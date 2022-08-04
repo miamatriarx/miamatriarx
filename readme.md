@@ -37,12 +37,6 @@
     </a>
   </p>
 
-  <p>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
-    </a>
-  </p>
-
   <h2>💕 Matriarx 🏰</h2>
 
   <p>
@@ -57,6 +51,12 @@
     </a>
     <a href="https://github.com/matriarx">
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
     </a>
   </p>
 
