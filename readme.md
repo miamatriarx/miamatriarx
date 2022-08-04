@@ -1,17 +1,11 @@
-<div align="center">
-  <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
+<h1 align="center">👩🏻‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
-  <p>Made with sprinkles of ✨ and oodles of 💕</p>
+<div align="center">
+  <p>Creating things with sprinkles of ✨ and oodles of 💕</p>
 
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx/miamatriarx/actions">
-      <img src="https://github.com/miamatriarx/miamatriarx/actions/workflows/ci.yaml/badge.svg" title="CI" alt="CI"/>
     </a>
   </p>
 
