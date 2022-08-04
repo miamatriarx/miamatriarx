@@ -10,12 +10,6 @@
   <p>Made with sprinkles of ✨ and oodles of 💕</p>
 
   <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
-    </a>
-  </p>
-
-  <p>
     <a href="https://matriarx.io">
       <img src="https://img.shields.io/badge/matriarx.io-c04080" title="Matriarx" alt="Matriarx"/>
     </a>
@@ -46,24 +40,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
-    </a>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080&logoColor=ffffff" title="Followers" alt="Followers"/>
-    </a>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://img.shields.io/github/sponsors/miamatriarx?logo=github&label=Sponsors&color=c04080&logoColor=ffffff" title="Sponsors" alt="Sponsors"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
-    </a>
-  </p>
-
-  <p>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Community&color=40c0c0&logoColor=ffffff" title="Community" alt="Community"/>
     </a>
@@ -86,6 +62,30 @@
     </a>
   </p>
 </div>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
+    </a>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://img.shields.io/github/followers/miamatriarx?logo=github&label=Followers&color=c04080&logoColor=ffffff" title="Followers" alt="Followers"/>
+    </a>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://img.shields.io/github/sponsors/miamatriarx?logo=github&label=Sponsors&color=c04080&logoColor=ffffff" title="Sponsors" alt="Sponsors"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
+      <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
+    </a>
+  </p>
 
 <p>
   <a href="https://github.com/miamatriarx">
