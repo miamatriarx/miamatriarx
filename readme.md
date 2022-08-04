@@ -39,6 +39,12 @@
 
   <p>
     <a href="https://github.com/miamatriarx">
+      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/miamatriarx">
       <img src="https://img.shields.io/github/stars/miamatriarx?logo=github&label=Stars&color=c04080&logoColor=ffffff" title="Stars" alt="Stars"/>
     </a>
     <a href="https://github.com/miamatriarx">
@@ -52,12 +58,6 @@
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
