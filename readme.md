@@ -178,7 +178,7 @@
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?logo=github&label=Release&include_prereleases&sort=semver&display_name=tag&logoColor=ffffff" title="Release" alt="Release">
+    <img src="https://img.shields.io/github/v/release/miamatriarx/miamatriarx.svg?logo=github&label=Release&include_prereleases&sort=semver&display_name=tag&color=c04080&logoColor=ffffff" title="Release" alt="Release">
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx/actions">
     <img src="https://img.shields.io/github/release-date/miamatriarx/miamatriarx?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
@@ -212,6 +212,9 @@
     <img src="https://img.shields.io/github/contributors/miamatriarx/miamatriarx?logo=github&label=Contributors&color=c04080&logoColor=ffffff" title="Contributors" alt="Contributors"/>
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
+  <img src="https://img.shields.io/github/last-commit/miamatriarx/miamatriarx?logo=github&label=Latest+Commit&color=c04080&logoColor=ffffff" title="Latest Commit" alt="Latest Commit"/>
+  </a>
+  <a href="https://github.com/miamatriarx/miamatriarx">
     <img src="https://img.shields.io/github/languages/count/miamatriarx/miamatriarx?logo=github&label=Languages&color=c04080&logoColor=ffffff" title="Languages" alt="Languages"/>
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
@@ -233,16 +236,13 @@
 
 <p>
   <a href="https://github.com/miamatriarx/miamatriarx">
-  <img src="https://img.shields.io/github/last-commit/miamatriarx/miamatriarx?logo=github&label=Last+Commit&color=c04080&logoColor=ffffff" title="Last Commit" alt="Last Commit"/>
+    <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/commit-activity/w/miamatriarx/miamatriarx?logo=github&label=Commits+%2F+Week&color=c04080&logoColor=ffffff" title="Commits / Week" alt="Commits / Week"/>
+    <img src="https://img.shields.io/github/commit-activity/m/miamatriarx/miamatriarx?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
   </a>
   <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/commit-activity/m/miamatriarx/miamatriarx?logo=github&label=Commits+%2F+Month&color=c04080&logoColor=ffffff" title="Commits / Month" alt="Commits / Month"/>
-  </a>
-  <a href="https://github.com/miamatriarx/miamatriarx">
-    <img src="https://img.shields.io/github/commit-activity/y/miamatriarx/miamatriarx?logo=github&label=Commits+%2F+Year&color=c04080&logoColor=ffffff" title="Commits / Year" alt="Commits / Year"/>
+    <img src="https://img.shields.io/github/commit-activity/y/miamatriarx/miamatriarx?logo=github&label=Commits&color=c04080&logoColor=ffffff" title="Commits" alt="Commits"/>
   </a>
 </p>
 
