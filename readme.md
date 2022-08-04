@@ -61,7 +61,6 @@
       <img src="https://img.shields.io/badge/GitHub-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
     </a>
   </p>
-</div>
 
   <p>
     <a href="https://github.com/miamatriarx">
@@ -86,6 +85,7 @@
       <img src="https://komarev.com/ghpvc/?username=miamatriarx&label=Views&style=flat&color=c04080" title="Views" alt="Views"/>
     </a>
   </p>
+</div>
 
 <p>
   <a href="https://github.com/miamatriarx">
