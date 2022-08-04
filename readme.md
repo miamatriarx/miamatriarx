@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
-
   <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
   </p>
+
+  <h1>👩‍💻✨ Mia 💕 Matriarx 🏰</h1>
 
   <p>
     <a href="https://matriarx.io">
