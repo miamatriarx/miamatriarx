@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ Mia Matriarx 🏰💕</h1>
 
 <div align="center">
-  <p>🧚🏻‍♀️👩🏻‍🎨👩🏻‍💻👩🏻‍🔬 creating 🎨🏰 with sprinkles of ✨ and oodles of 💕</p>
+  <p><i>🧚🏻‍♀️✨👩🏻‍🎨👩🏻‍💻👩🏻‍🔬💕 creating 🎨🏰 with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
