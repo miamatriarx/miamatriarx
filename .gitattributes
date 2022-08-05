@@ -6,8 +6,8 @@
 .gitmodules text eol=lf
 
 # file
-license text eol=lf
 codeowners text eol=lf
+license text eol=lf
 
 # config
 .editorconfig text eol=lf
