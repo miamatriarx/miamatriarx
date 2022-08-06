@@ -1,7 +1,7 @@
-<h1 align="center">✨🧚🏻‍♀️🪄✨ Mia Matriarx ✨🧚🏻‍♀️🏰💕</h1>
+<h1 align="center">🧚🏻‍♀️✨ Mia Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p><i>✨🧚🏻‍♀️🪄✨ Creating 🎨✨🏰💕 with sprinkles of ✨ and oodles of 💕</i></p>
+  <p><i>🧚🏻‍♀️✨ Creating things with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
@@ -69,7 +69,7 @@
     </a>
   </p>
 
-  <h2>✨🧚🏻‍♀️🪄✨ Matriarx ✨🧚🏻‍♀️🏰💕</h2>
+  <h2>🧚🏻‍♀️✨ Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h2>
 
   <p>
     <a href="https://matriarx.io">
