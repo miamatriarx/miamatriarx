@@ -5,7 +5,7 @@
 
   <p>🏳️‍🌈🏳️‍⚧️</p>
 
-  <p><i>🧚🏻‍♀️✨ Creating things with sprinkles of ✨ and oodles of 💕</i></p>
+  <p><i>🧚🏻‍♀️✨ Creating 👩🏻‍💻🎨 with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
     <a href="https://github.com/miamatriarx">
@@ -40,6 +40,15 @@
     </a>
     <a href="https://stackoverflow.com/users/19684520/mia-matriarx">
       <img src="https://img.shields.io/badge/StackOverflow-f48024?logo=stackoverflow&logoColor=ffffff" title="StackOverflow" alt="StackOverflow"/>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/sponsors/miamatriarx">
+      <img src="https://img.shields.io/badge/Support-404040?logo=github&logoColor=ffffff" title="GitHub" alt="GitHub"/>
+    </a>
+    <a href="https://patreon.com/miamatriarx">
+      <img src="https://img.shields.io/badge/Patreon-f96854?logo=patreon&logoColor=ffffff" title="Patreon" alt="Patreon"/>
     </a>
   </p>
 
@@ -174,8 +183,8 @@
 
 🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
 
-You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+Have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
 
-I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to build cool things for people.  It brings me joy to make things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
+I create free and open source software published under MIT. It brings me joy to make things that add value to people's life and I would like to be able to continue doing so 🦄✨
 
 At the cost of a coffee you can help make the world a better place ✨💕
