@@ -90,9 +90,7 @@
     </a>
   </p>
 
-  <h2>🧚🏻‍♀️✨ Support ✨🧚🏻‍♀️🦄🔮🏰💕</h2>
-
-  <p>🧚🏻‍♀️✨ Have a look at the fantastic rewards you can earn for supporting me 🦄🔮</p>
+  <h2>🧚🏻‍♀️✨ Support ✨💕</h2>
 
   <p>
     <a href="https://github.com/sponsors/miamatriarx">
@@ -108,6 +106,8 @@
       <img src="https://img.shields.io/badge/Donate-40a0a0?logo=bunq&logoColor=ffffff" title="Donate" alt="Donate"/>
     </a>
   </p>
+
+  <p>🧚🏻‍♀️✨ Have a look at the fantastic rewards you can earn for supporting me 🔮✨</p>
 </div>
 
 <p>
@@ -187,9 +187,9 @@
   </a>
 </p>
 
-# 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
+# 🧚🏻‍♀️✨ Support ✨💕
 
-🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🔮✨
 
 Have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
 
