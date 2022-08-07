@@ -169,3 +169,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   </a>
 </p>
+
+# 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
+
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
+
+You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+
+I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to build cool things for people.  It brings me joy to make things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.
+
+At the cost of a coffee you can help make the world a better place ✨💕
